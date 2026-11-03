@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.amersfoort-vergaderruimte.nl/sitemap.xml
+Sitemap: https://amersfoort-vergaderruimte.nl/sitemap.xml

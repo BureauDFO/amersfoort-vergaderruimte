@@ -23,4 +23,4 @@
 
 ## Pagina's
 
-- [Home](https://www.amersfoort-vergaderruimte.nl/): alle ruimtes, bereikbaarheid, veelgestelde vragen en offerte aanvragen
+- [Home](https://amersfoort-vergaderruimte.nl/): alle ruimtes, bereikbaarheid, veelgestelde vragen en offerte aanvragen
