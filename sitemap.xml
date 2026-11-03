@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.amersfoort-vergaderruimte.nl/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-03</lastmod>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/boardroom-vergaderruimte-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/grote-a1-congreszaal-hoevelaken-amersfoort.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/kaart-vergaderruimte-hoevelaken-bij-amersfoort.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/ontvangst-en-kantine-vergaderlocatie-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderlocatie-hoevelaken-amersfoort-de-wel.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-groot-amersfoort.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-havik-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-klein-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-koppelpoort-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-lange-jan-hoevelaken.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.amersfoort-vergaderruimte.nl/img/vergaderruimte-muurhuizen-hoevelaken.jpg</image:loc></image:image>
   </url>
 </urlset>
